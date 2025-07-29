@@ -12,6 +12,8 @@ CEO-Focused Questions (Strategic, Operational, Financial) -
 4> Are we seeing consistent improvements in success metrics like - total active users and return purchase rates across regions, inefficiencies affecting order fulfillment, returns, or delivery times, or is performance concentrated in specific areas? 
 → To ensure scalable and efficient growth.
 
+*********************************************************************************
+
 CMO-Focused Questions (Marketing, Customer Insights, Growth) - 
 
 1> Which marketing channels are driving the most conversions and highest (ROI) return on ad spend (ROAS), and how do these trends vary by demographic and how do CAC and conversion rates vary by channel and audience segment? → To optimize budget allocation and maximize impact.    
