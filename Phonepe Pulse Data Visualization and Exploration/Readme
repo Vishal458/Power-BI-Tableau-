@@ -1,0 +1,2 @@
+The rapid expansion of digital payments in India has resulted in enormous volumes of transactional and user data. The PhonePe Pulse GitHub repository provides state-wise and district-wise datasets that include transaction counts, values, categories, device usage, and quarterly insights. This project transforms that raw data into a Power BI/Tableau dashboard that delivers meaningful,interactive insights through geo-visualization, dynamic filtering, and KPI tracking.
+
